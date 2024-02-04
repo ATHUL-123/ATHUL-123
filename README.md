@@ -1,5 +1,5 @@
-### Hi there 👋
 
+### ATHUL KRISHNA TV - Software Development Engineer
 <!--
 **ATHUL-123/ATHUL-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Malik Dinar - Software Development Engineer
+
 
 
 
