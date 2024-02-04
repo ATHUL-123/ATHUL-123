@@ -39,7 +39,7 @@ I'm ATHUL KRISHNA TV, a highly skilled MERN stack developer experienced in craft
 
 **languages and tools:**  
 
-<a><img src="https://skillicons.dev/icons?i=nodejs,mongodb,js,ts,express" />
+<a><img src="https://skillicons.dev/icons?i=nodejs,mongodb,js,mysql,ts,express" />
 <a/> <br/>
 <a><img src="https://skillicons.dev/icons?i=aws,firebase,git,react,redux" />
 <a/>
