@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Athul's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 
-<a href="https://discord.gg/XTW52Kt">
+<a href="https://www.linkedin.com/in/athul-tv-912779290/">
   <img align="left" alt="Malik's Discord" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png" />
 </a>
 <br/>
@@ -39,12 +39,12 @@ I'm ATHUL KRISHNA TV, a highly skilled MERN stack developer experienced in craft
 
 **languages and tools:**  
 
-<a><img src="https://skillicons.dev/icons?i=nodejs,mongodb,js,mysql,ts,express" />
+<a><img src="https://skillicons.dev/icons?i=nodejs,mongodb,js,ts,express" />
 <a/> <br/>
 <a><img src="https://skillicons.dev/icons?i=aws,firebase,git,react,redux" />
 <a/>
  <br/>
-<a><img src="https://skillicons.dev/icons?i=postman,figma,nginx" />
+<a><img src="https://skillicons.dev/icons?i=postman,figma,mysql,nginx" />
 <a/>
 
     
